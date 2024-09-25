@@ -2,7 +2,7 @@
 A meme-browsing application developed using Flutter, featuring search functionality and dynamic grid layouts. The app fetches popular memes from the Imgflip API and displays them in a responsive, visually appealing grid view.
 
 # Key Features:
-**Meme Display**: Showcases a wide variety of memes in a grid layout, where items are dynamically resized (staggered layout) for visual diversity.
+**Meme Display**: Showcases a wide variety of memes in a grid layout, where items are dynamically resized (staggered layout) for visual diversity.</n>
 **Search Bar**: Allows users to search for memes by name using a built-in search bar with clear and cancel buttons.
 **Image Editing**: Provides image editing tools such as cropping and rotating within the meme details screen.
 **Save to Gallery**: Allows users to save edited memes directly to their device's gallery.
