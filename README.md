@@ -13,7 +13,7 @@ A meme-browsing application developed using Flutter, featuring search functional
 The project emphasizes scalable architecture, clean code practices, and an intuitive user interface.
 
 
-# Screen shot of this application
+# Screenshot of this application
 <p float="left" >
 <img src="https://github.com/md-arif-hossainn/graphics_cycle_task/blob/master/image/com.example.graphics_cycle1.jpg" width="220"/>
 <img src="https://github.com/md-arif-hossainn/graphics_cycle_task/blob/master/image/com.example.graphics_cycle2.jpg" width="220"/>
